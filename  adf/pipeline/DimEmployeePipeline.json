@@ -1,6 +1,7 @@
 {
 	"name": "DimEmployeePipeline",
 	"properties": {
+		"description": "Load employee xl in adls to emp in db",
 		"activities": [
 			{
 				"name": "LoadDimEmployee",
