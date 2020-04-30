@@ -1,7 +1,7 @@
 {
 	"name": "DimEmployeePipeline",
 	"properties": {
-		"description": "Load employee xl in adls to emp in db",
+		"description": "Load employee excel data from adls to emp in aure sql db",
 		"activities": [
 			{
 				"name": "LoadDimEmployee",
