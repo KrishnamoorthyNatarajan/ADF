@@ -1,0 +1,6 @@
+echo "# Azure-Data-Factory---Test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/krishm79/Azure-Data-Factory---Test.git
+git push -u origin master
