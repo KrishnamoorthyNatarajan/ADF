@@ -1,6 +1,7 @@
 {
 	"name": "copydatapipeline",
 	"properties": {
+		"description": "Load HTTP source  to  azure sql blob",
 		"activities": [
 			{
 				"name": "Copy data",
